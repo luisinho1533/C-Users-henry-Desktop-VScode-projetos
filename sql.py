@@ -75,5 +75,5 @@ def sql_injection_scan(url):
 
 
 if __name__ == "__main__":
-    urlToBeChecked = input('cola a URL do site aqui :')
+    urlToBeChecked = input('cole a URL do site aqui :')
     sql_injection_scan(urlToBeChecked)
